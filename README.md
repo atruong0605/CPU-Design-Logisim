@@ -1,5 +1,3 @@
-# CS61CPU
+# CPU-Design-Logisim
 
-Look ma, I made a CPU! Here's what I did:
-
--
+A pipelined CPU designed using circuits in Logisim.
